@@ -147,6 +147,7 @@ PennController("trial2" ,
 	       newAudio("bunnysounds", "bunnysounds.mp3")
 		.play()
 	       ,
+	       newText ("<p> Magicianul întreabǎ:'Sunt unii sau toţi iepuraşii roz?'</p>"),
 	       newText ("<p> Puiul de dragon spune: Unii iepuraşi sunt roz. </p>")
 	       ,
 	       newText ("<p> Puiul de dragon nu a oferit cea mai bună descriere. Umbrele nu aparţin iepuraşilor roz, ci iepuraşilor verzi. </p>"),
@@ -192,6 +193,7 @@ PennController("trialbunny" ,
 	       newAudio("bunnysounds", "bunnysounds.mp3")
 		.play()
 	       ,
+	       newText ("<p> Magicianul întreabǎ:'Sunt unii sau toţi iepuraşii verzi?'</p>"),
 	       newText ("<p> Puiul de dragon: Toţi iepuraşii sunt verzi. </p>")
 	       ,
 	       newText ("<p> Cum vei răsplati puiul de dragon? </p>")
@@ -226,6 +228,7 @@ PennController("trialbunny2" ,
 	        newImage ("bunnyshadowscenario", "bunnyshadowscenario.png")
 	       .print ( )
 	       ,
+	       newText ("<p> Magicianul întreabǎ:'Sunt unii sau toţi iepuraşii verzi?'</p>"),
 	       newText ("<p> Puiul de dragon: Unii iepuraşi sunt verzi. </p>")
 	       ,
 	       newText ("<p> Cum vei răsplati puiul de dragon? </p>")
