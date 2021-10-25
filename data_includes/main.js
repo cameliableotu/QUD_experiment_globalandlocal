@@ -146,7 +146,7 @@ PennController("trial2" ,
 		.play()
 	       ,
 	       newText ("<p> Magicianul întreabǎ: 'Sunt unii sau toţi iepuraşii roz?'</p>"),
-	       newText ("<p> Puiul de dragon rǎspunde: 'Unii iepuraşi sunt roz. </p>")
+	       newText ("<p> Puiul de dragon rǎspunde: 'Unii iepuraşi sunt roz.' </p>")
 	       ,
 	       newText ("<p> Puiul de dragon nu a oferit cel mai bun răspuns. Umbrele nu aparţin iepuraşilor roz, ci iepuraşilor verzi. </p>"),
 	       newText ("<p> Din acest motiv, îi vei da puiului de dragon un măr mic, nu un măr mare. </p>"),
