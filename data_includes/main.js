@@ -226,7 +226,7 @@ PennController("trialbunny2" ,
 	        newImage ("bunnyshadowscenario", "bunnyshadowscenario.png")
 	       .print ( )
 	       ,
-	       newText ("<p> Magicianul întreabǎ: 'Sunt unii sau toţi iepuraşii verzi?'</p>"),
+	       newText ("<p> Magicianul întreabǎ: 'Sunt unii sau toţi iepuraşii din spatele cortinei verzi?'</p>"),
 	       newText ("<p> Puiul de dragon rǎspunde: 'Unii iepuraşi sunt verzi'. </p>")
 	       ,
 	       newText ("<p> Cum vei răsplati puiul de dragon? </p>")
@@ -688,7 +688,7 @@ PennController("experiment" ,
 	        .print(),
 	       newText ("<p> Uite, o pereche de pisici roz şi o pereche de pisici albastre au venit în faţa cortinei. </p>")
 	          ,    
-	       newText ("<p> Acum în faţa cortinei sunt patru pisici: două pisici roz şi două pisici albastre, dar umbrele sunt încă acolo, în lumina reflectoarelor.! </p>")
+	       newText ("<p> Acum în faţa cortinei sunt patru pisici: două pisici roz şi două pisici albastre, dar umbrele sunt încă acolo, în lumina reflectoarelor! </p>")
 			,
       newImage ("catshadowscenario4", "catshadowscenario4.png")
          .print()
