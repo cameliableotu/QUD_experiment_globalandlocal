@@ -358,7 +358,7 @@ PennController("experiment" ,
 	    defaultText
 	        .print()
 	       ,
-  newText ("<p> O pereche de câini galbeni a venit acum în faţa cortinei. <p>")  
+  newText ("<p> O pereche de câini galbeni a venit acum în faţa cortinei.</p>")  
 	       ,
   newText ("<p> Puiul de dragon trebuie să răspundă întrebării magicianului despre umbre. </p>")
 	       ,
@@ -1420,8 +1420,11 @@ PennController("experiment" ,
 	       
 )
 ;
-newText ("<p>  Hai acum să trecem la grupul pisicilor. </p>"),
-	       newText ("<p> Avem două perechi de pisici albastre şi două perechi de pisici roz. <p>")
+PennController ("experiment",
+		defaultText
+	        .print(),
+               newText ("<p>  Hai acum să trecem la grupul pisicilor. </p>"),
+	       newText ("<p> Avem două perechi de pisici albastre şi două perechi de pisici roz. </p>")
 	       ,
 	       newImage("fourbluecatssmall", "fourbluecatssmall.png")
         .print()
